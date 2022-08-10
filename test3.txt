@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is BA0D-464C
+
+ Directory of C:\Users\tomer\OneDrive\Desktop\—…˜‘ FULLSTACK\HTML CSS JS\GIT\gitEx3
+
+08/10/2022  11:53 AM    <DIR>          .
+08/10/2022  11:38 AM    <DIR>          ..
+08/10/2022  11:42 AM               404 test.txt
+08/10/2022  11:53 AM               435 test2.txt
+08/10/2022  11:53 AM                 0 test3.txt
+               3 File(s)            839 bytes
+               2 Dir(s)  260,211,732,480 bytes free
